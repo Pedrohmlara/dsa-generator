@@ -2,7 +2,7 @@
 
 A full-stack application that generates comprehensive, AI-powered study guides for Data Structures & Algorithms topics. Select your topics, choose a learning style, and receive a streamed step-by-step guide in real-time.
 
-Built completely with the **Antigravity IDE** as the AI coding assistant and powered by the **Antigravity SDK** alongside **Gemini models** to orchestrate the dynamic multi-agent generation pipeline. Persistent storage and history tracking are handled natively via **Google Cloud Firestore**.
+Powered by the **Antigravity SDK** alongside **Gemini models** to orchestrate the dynamic multi-agent generation pipeline. Persistent storage and history tracking are handled natively via **Google Cloud Firestore**.
 
 ## Architecture
 
