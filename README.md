@@ -4,6 +4,8 @@ A full-stack application that generates comprehensive, AI-powered study guides f
 
 Powered by the **Antigravity SDK** alongside **Gemini models** to orchestrate the dynamic multi-agent generation pipeline. Persistent storage and history tracking are handled natively via **Google Cloud Firestore**.
 
+Google Cloud credits are provided for this project #AgenticArchitect #GoogleAntigravity
+
 ## Architecture
 
 - **Frontend**: Vite + Vanilla JS
@@ -81,3 +83,4 @@ graph TD
     classDef agent fill:#f9f,stroke:#333,stroke-width:2px;
     class C,D,E agent;
 ```
+
